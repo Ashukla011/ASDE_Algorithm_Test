@@ -43,7 +43,7 @@ var p = 100;
 var powers = [10, 20, 30, 40, 50, 60, 70, 80, 90, 100, 110];
 var a = 2;
 var b = 1;
-// Test Cases-1
+// Test Cases-2
 var p2 = 50;
 var powers2 = [2, 4, 8, 10, 12, 14, 16, 18, 20, 22];
 var a2 = 3;
